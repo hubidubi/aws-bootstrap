@@ -9,7 +9,7 @@
     "build": "echo 'Building...'"
   },
   "dependencies": {
-    "pm2": "^6.0.5"
+    "pm2": "^6.0.6"
   },
   "keywords": [],
   "author": "",
